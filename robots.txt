@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /images/
+
+Sitemap: http://rra-am1b-2016.esy.es/sitemap.xml
